@@ -27,7 +27,7 @@
       </td>
      <td>
         <img 
-         src="https://github-readme-stats.vercel.app/api?username=aabirroy30-boop&theme=blue-green&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
+         src="https://github-readme-stats.vercel.app/api?username=SahaDeb708&theme=blue-green&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
       </td>
      </tr>
   </table>
@@ -44,8 +44,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aabir-roy-55293a2ba/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__aabir._/)  
+https://www.linkedin.com/in/debayan-saha-0aa221277/
+
 ---
 
 ### 🔝 Top Contributed Repo
