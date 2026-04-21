@@ -23,7 +23,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=aabirroy30-boop&theme=chartreuse_dark&hide_border=true" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=SahaDeb708&theme=chartreuse_dark&hide_border=true" alt="GitHub Streak"/>
       </td>
      <td>
         <img 
@@ -33,10 +33,10 @@
   </table>
   <table>
    <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aabirroy30-boop&theme=chartreuse_dark" alt="GitHub Summarry Card"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahaDeb708&theme=chartreuse_dark" alt="GitHub Summarry Card"/>
    </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabirroy30-boop&theme=blue-green&layout=donut&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahaDeb708&theme=blue-green&layout=donut&hide_border=true" alt="Top Languages"/>
       </td>
     
   </table>
